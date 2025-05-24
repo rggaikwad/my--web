@@ -1,2 +1,2 @@
 # my--web
-simple-python-web
+i will host the static website here
